@@ -9,6 +9,4 @@ public class Program
 
         g.Move(1, 10, 100);
     }
-
-    
 }
