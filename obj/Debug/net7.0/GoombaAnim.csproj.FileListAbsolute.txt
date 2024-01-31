@@ -1,0 +1,14 @@
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\bin\Debug\net7.0\GoombaAnim.exe
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\bin\Debug\net7.0\GoombaAnim.deps.json
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\bin\Debug\net7.0\GoombaAnim.runtimeconfig.json
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\bin\Debug\net7.0\GoombaAnim.dll
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\bin\Debug\net7.0\GoombaAnim.pdb
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\GoombaAnim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\GoombaAnim.AssemblyInfoInputs.cache
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\GoombaAnim.AssemblyInfo.cs
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\GoombaAnim.csproj.CoreCompileInputs.cache
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\GoombaAnim.dll
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\refint\GoombaAnim.dll
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\GoombaAnim.pdb
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\GoombaAnim.genruntimeconfig.cache
+C:\Users\blyra\src\BSU\OrgProg\GoombaAnim\obj\Debug\net7.0\ref\GoombaAnim.dll
