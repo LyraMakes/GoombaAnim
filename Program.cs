@@ -5,8 +5,15 @@ public class Program
     public static void Main(string[] args)
     {
         Goomba g = new Goomba();
-        g.Move(1, 20, 50);
+        ParaGoomba pg = new ParaGoomba();
 
-        g.Move(1, 10, 100);
+        ASCIIAni a = new ASCIIAni();
+
+        while (true)
+        {
+            a.StartAni(g);
+            a.StartAni(pg);
+        }
+        
     }
 }

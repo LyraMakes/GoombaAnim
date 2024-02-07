@@ -1,5 +1,5 @@
 
-class Goomba
+class Goomba : Villain
 {
     private string[] goombaSprite;
 
